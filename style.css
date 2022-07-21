@@ -163,7 +163,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    color: #62b559;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -208,7 +208,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("../images/home_page_img.jpg") no-repeat center;
+    background: url("./home_img.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
