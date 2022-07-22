@@ -585,7 +585,7 @@ footer span a:hover{
 
 .about1{
     display: flex;
-    background: url("./images/Bike4.jpeg") no-repeat center;
+    background: url("./images/bike15.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -740,3 +740,78 @@ footer span a:hover{
 }
 
 
+.bikemodels{
+    background-color: #ffffff;
+}
+
+.bikemodels .max-width .bikemodels-content{
+    display: flex;
+}
+.bikemodels .max-width .bikemodels-content .container-left{
+    margin-left: 3%;
+    padding-top: 10px;
+}
+.bikemodels .max-width .bikemodels-content .container-middle{
+    /* margin: 0%; */
+    padding-top: 10px;
+    margin-left: 10%;
+}
+.bikemodels .max-width .bikemodels-content .container-right{
+    margin-left: 10%;
+    padding-top: 10px;
+}
+
+.bikemodels .max-width .bikemodels-content .container-left img{
+    /* max-width: 500px;
+    max-height: 1000px; */
+    width: 280px;
+    height: 440px;
+    border-radius: 10px;
+}
+.bikemodels .max-width .bikemodels-content .container-middle img{
+    /* max-width: 500px;
+    max-height: 1000px; */
+    width: 280px;
+    height: 440px;
+    border-radius: 10px;
+}
+.bikemodels .max-width .bikemodels-content .container-right img{
+    /* max-width: 500px;
+    max-height: 1000px; */
+    width: 280px;
+    height: 440px;
+    border-radius: 10px;
+}
+
+
+
+.about2 .max-width .about2-content{
+    display: flex;
+}
+.about2 .max-width .about2-content .container-left{
+    margin-left: 3%;
+    padding-top: 10px;
+}
+.about2 .max-width .about2-content .container-right{
+    /* margin: 0%; */
+    padding-top: 10px;
+    margin-left: 10%;
+}
+
+/* .about2 .max-width .about2-content .container-left .logo{
+    font-size: 100px;
+    text-align: center;
+} */
+
+
+.about2 .logo a{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+}
+.about2 .logo a span{
+    color: #62b559;
+    transition: all 0.3s ease;
+}
